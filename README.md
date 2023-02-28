@@ -410,4 +410,5 @@ Properties of a Max Binary Heap:
   - Searching for a node in a binary heap of size n
 
 ## Authors
-- **Yakub Idris** - [arthurdamm](https://github.com/arthurdamm)
+- **Yakub Idris** - [driiisdev](https://github.com/arthurdamm)
+- **Slyvia Otieno** - [sotieno](https://github.com/sotieno)
